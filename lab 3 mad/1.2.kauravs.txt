@@ -1,0 +1,15 @@
+class Kauravas extends Bharatvanshi
+{
+    void fight()
+    {
+        super.fight();
+    }
+    void obey()
+    {
+        System.out.println("kauravas are disobedient");
+    }
+    void cruel()
+    {
+        System.out.println("kauravas are cruel");
+    }
+}

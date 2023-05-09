@@ -1,0 +1,24 @@
+public class Main
+{
+	public static void main(String[] args) {
+	Pandavas p = new Pandavas();
+	p.fight();
+	p.obey();
+	p.cruel();
+	System.out.println(" ");
+	Kauravas k = new Kauravas ();
+	k.fight();
+	k.obey();
+	k.cruel();
+	System.out.println(" ");
+	Bheem b = new Bheem();
+	b.fight();
+	b.obey();
+	b.cruel();
+	System.out.println(" ");
+	Vikarn v = new Vikarn();
+	v.fight();
+	v.obey();
+	v.cruel();
+	}
+}

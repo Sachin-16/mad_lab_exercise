@@ -1,0 +1,16 @@
+class Vikarn extends Kauravas
+{
+    void fight()
+    {
+        super.fight();
+    }
+    void obey()
+    {
+        System.out.println("Vikarn is obedient");
+    
+    }
+    void cruel()
+    {
+        System.out.println("Vikarn is kind");
+    }
+}
