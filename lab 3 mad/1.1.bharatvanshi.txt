@@ -1,0 +1,9 @@
+abstract class Bharatvanshi
+{
+    void fight()
+    {
+        System.out.println("They are known to fight");
+    }
+    abstract void obey();
+    abstract void cruel();
+}

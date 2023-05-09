@@ -1,0 +1,15 @@
+class Bheem extends Pandavas
+{
+    void fight()
+    {
+        super.fight();
+    }
+    void obey()
+    {
+        super.obey();
+    }
+    void cruel()
+    {
+        System.out.println("Bheem was more cruel than Arjun");
+    }
+}
